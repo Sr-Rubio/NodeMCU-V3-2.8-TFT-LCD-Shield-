@@ -11,9 +11,9 @@
   -Install CH413xDriver that is on this repository (This is for arduino IDE recognize the chipset NodeMCU v3)
   
   -Install .zip libraries (Read the PDF of How to instal .zip libraries if you dont know how install it, also added the user manual from TFT for diagrams and more connections, but THE MANUAL  IS FOR ARDUINO UNO OR MEGA NOT FOR ESP8266 NOR ESP32)
-  
-  -Copy the code on the Arduino IDE (is a tft lcd test program , the important is the setup for conection)
-  
+ 
   -Conect wires like images 
-  
+ 
+ -Copy the code on the Arduino IDE & flash it (is a tft lcd test program , the important is the setup for conection)
+    
   -Run it 
